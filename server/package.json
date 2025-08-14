@@ -5,7 +5,7 @@
   "main": "server.ts",
   "type": "module",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "node server.js"
   },
   "author": "Praveen Singh <pvnsingh05@gmail.com>",
   "license": "ISC",
