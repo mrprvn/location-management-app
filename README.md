@@ -9,6 +9,8 @@ Users can **manually add locations** or **upload them via ZIP files**, with real
 
 🎥 **Project Walkthrough Video:** [Watch on Loom](https://www.loom.com/share/c74991af9aaa4f1c81bd6962958fa7b4?sid=85468c2a-5eed-45a8-b68b-acf61a079679)
 
+## 🔗 **Live Link:** [https://location-management-app.vercel.app/](https://location-management-app.vercel.app/)
+
 ---
 
 ## 📑 Table of Contents
